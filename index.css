@@ -1,0 +1,35 @@
+
+
+h1 {
+    background-color: azure;
+    text-align: center;
+    font-family: Cochin;
+}
+h2 {
+    font-family: Cochin;
+    font-size: 18pt;
+    background-color: azure;
+}
+h3 {
+    font-family: Cochin;
+    text-align: right;
+    background-color: aquamarine;
+    margin-right: 10pt;
+}
+p {
+    font-family: Cochin;
+    text-align: left;
+    font-size: 16pt;
+    background-color: antiquewhite;
+}
+ol {
+    font-family: Cochin;
+    font-size: 16pt;
+    text-align: left;
+}
+span {
+    background: #baafa1;
+    padding-right: 80px;
+    position: relative;
+    z-index: 1;
+}
